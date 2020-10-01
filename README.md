@@ -1,6 +1,6 @@
 # Cryptographic Library
 
-<b>This library contains 4 cryptographic algorithms</b>
+This library contains 4 cryptographic algorithms
 
 1. SHA-256
 2. md5
